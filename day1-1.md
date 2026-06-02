@@ -7,3 +7,10 @@
 - [x] 项目一
 - [ ] 项目二
 ## Review
+```bash
+#include <stdio>
+int main(){
+printf("hello world!");
+return 0;
+}
+```
